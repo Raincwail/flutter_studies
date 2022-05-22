@@ -158,6 +158,7 @@ void main(){
 
   print("");
 
+  // Третья задача
   try {
     print("3.1");
     altRegisteredFinal([1, 2, 3], ["1car", "2car", "3car"]);
